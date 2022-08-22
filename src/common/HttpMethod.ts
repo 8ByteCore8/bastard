@@ -1,0 +1,1 @@
+export type HttpMethod = "GET" | "POST" | "PUT" | "DELETE" | "OPTION" | "CONNECT" | "TRACE" | "PATCH" | "HEAD"
